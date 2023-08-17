@@ -1,0 +1,12 @@
+.user-data-box {
+  display: flex;
+  gap: 4rem;
+}
+
+.MuiRadio-root.Mui-checked {
+  color: deepPink;
+}
+
+.MuiFormLabel-root.Mui-focused {
+  color: rgba(0, 0, 0, 0.6);
+}

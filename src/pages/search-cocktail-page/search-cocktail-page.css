@@ -1,0 +1,21 @@
+.search-cocktail-box {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  width: 55rem;
+  margin-bottom: 2rem;
+}
+
+.search-panel-box {
+  display: flex;
+  flex-direction: column;
+
+  padding: 1rem 2rem 2rem 2rem;
+  background: white;
+}
+
+@media (max-width: 55rem) {
+  .search-cocktail-box {
+    width: 100vw;
+  }
+}

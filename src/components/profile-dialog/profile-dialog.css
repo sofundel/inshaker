@@ -1,0 +1,21 @@
+.close-profile-button {
+  position: absolute;
+  right: 0.5rem;
+  top: 0.5rem;
+}
+
+.profile-message {
+  height: 1rem;
+  color: rgb(121, 6, 4);
+  padding-left: 0.5rem;
+}
+
+.save-button {
+  font-size: 1rem;
+  text-transform: none;
+  color: black;
+}
+
+.save-button:hover {
+  color: deeppink;
+}

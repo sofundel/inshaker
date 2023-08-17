@@ -1,0 +1,7 @@
+.close-dialog-button {
+  color: black;
+}
+
+.close-dialog-button:hover {
+  color: deeppink;
+}

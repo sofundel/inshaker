@@ -1,0 +1,35 @@
+.randomizer-box {
+  border-radius: 0.5rem;
+  background: none;
+}
+
+.randomizer-title {
+  font-size: 1.2rem;
+  text-align: center;
+  margin-bottom: 1.5rem;
+  background: none;
+  color: white;
+}
+
+.randomizer-button {
+  display: block;
+  width: 18rem;
+  height: 3rem;
+
+  margin: auto;
+  margin-top: 1.5rem;
+
+  text-transform: none;
+  font-size: 1.2rem;
+  font-weight: 400;
+
+  background: none;
+  color: white;
+  border-radius: 1rem;
+  border-color: white;
+}
+
+.randomizer-button:hover {
+  color: deeppink;
+  border-color: deeppink;
+}

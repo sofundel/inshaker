@@ -1,0 +1,18 @@
+.pagination-panel {
+  align-self: center;
+}
+
+.MuiPaginationItem-root {
+  border-color: white;
+  color: white;
+}
+
+.MuiPaginationItem-root:hover {
+  border-color: deeppink;
+  color: deeppink;
+}
+
+.MuiPaginationItem-root.Mui-selected {
+  border-color: deeppink;
+  color: deeppink;
+}
