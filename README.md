@@ -1,5 +1,6 @@
 # inshaker
 
+Стек: React, RTK, TypeScript, MUI, сетевые запросы - Axios, сборщик - Vite. 
 Используется бесплатный API: https://www.thecocktaildb.com/
 
 Приложение представляет собой платформу для барменов.
